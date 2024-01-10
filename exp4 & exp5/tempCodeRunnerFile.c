@@ -1,0 +1,4 @@
+else
+    {
+        locctr = 0;
+    }
